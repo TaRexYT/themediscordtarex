@@ -254,35 +254,35 @@
 
 /* playing a game card */
 .theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6, .theme-dark .body-3ND3kc {
-    background-color: rgba();
+    background-color: rgba(0, 0, 0, 0.9);
 }
 .theme-dark .quickMessage-1yeL4E {
-    background-color: rgba();
+    background-color: rgba(0, 0, 0, 0.9);
     border-color: #000000;
 }
 .headerPlaying-j0WQBV, .da-topSectionPlaying {
-    background: rgba();
+    background: rgba(0, 0, 0, 0.9);
     border: 1px solid rgb(21, 255, 0);
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
 /* button for header playing on add friend */
 .lookInverted-2D7oAl.colorBrand-3pXr91, .lookFilled-1Gx00P.colorBrand-3pXr91 {
-    background-color: rgba();
-    border: 1px solid rgba();
+    background-color: rgba(0, 0, 0, 0.9);
+    border: 1px solid rgba(0, 0, 0, 0.9);
     color: #ffffff;
 }
 .lookInverted-2D7oAl.colorBrand-3pXr91:hover, .lookFilled-1Gx00P.colorBrand-3pXr91:hover {
-    background-color: rgba();
+    background-color: rgba(0, 0, 0, 0.9);
 }
 
 .userPopout-3XzG_A {
-    border: 1px solid #ffffff;
+    border: 1px solid #000000;
 }
 
 /* normal card */
 .theme-dark .da-headerNormal, .da-root .da-topSectionNormal {
-    background-color: rgba();
+    background-color: rgba(0, 0, 0, 0.9);
 }
 
 
@@ -294,12 +294,12 @@
 
 /* on call area */
 .video-1FfuMD {
-    background-color: rgba();
-    border: 1px solid #ffffff;
+    background-color: rgba(0, 0, 0, 0.9);
+    border: 1px solid #000000;
 }
 .theme-dark .wrapper-29NfPK.minimum-2d6zH6 .actions-2vadYq .center-1Vp33r {
-    background-color: #ffffff;
-    border-color: #ffffff;
+    background-color: #000000;
+    border-color: #000000;
 }
 
 /* fixing idle and other states *//*
@@ -309,31 +309,31 @@
 
 /* unread messages */
 .wrapper-232cHJ {
-    background-color: #ffffff;
-    box-shadow: 0px 0px 10px #ffffff;
+    background-color: #000000;
+    box-shadow: 0px 0px 10px #000000;
 }
 
 /* settings my account background */
 .theme-dark .da-cardPrimary, .theme-dark .da-cardPrimaryEditable {
-	background: rgba();
-	border-color: rgba();
+	background: rgba(0, 0, 0, 0.3);
+	border-color: rgba(0, 0, 0, 0.4);
 }
 
 /* settings button normal and hover of categories */
 .da-app .side-8zPYf6 .da-itemSelected, .theme-dark #bd-settings-sidebar .ui-tab-bar-item.selected {
-    background-color: #ffffff;
-   	border: 1px solid #ffffff;
+    background-color: #000000;
+   	border: 1px solid #000000;
 	border-top-left-radius: 20px;
 	border-bottom-right-radius: 20px;
 }
 .da-app .side-8zPYf6 .da-itemDefault:hover, .da-app .da-wrapperHoveredText .da-content, .da-app .da-channel:hover a, .theme-dark #bd-settings-sidebar .ui-tab-bar-item:hover {
-	background-color: rgba(255, 255, 255, 0.63);
-   	border: 1px solid #ffffff;
+	background-color: rgba(0, 0, 0, 0.63);
+   	border: 1px solid #000000;
 	border-top-left-radius: 20px;
 	border-bottom-right-radius: 20px;
 }
 .theme-dark .member-3W1lQa:hover .content-OzHfo4 {
-	background-color: rgba();
+	background-color: rgba(0, 0, 0, 0.63);
    	border: 1px solid #000000;
 	border-top-left-radius: 20px;
 	border-bottom-right-radius: 20px;
@@ -343,24 +343,24 @@
 
 /* secondary buttons */
 .da-app .lookFilled-1Gx00P.colorBrand-3pXr91 {
-	background-color: #ffffff;
+	background-color: #000000;
 }
 
 .da-app .lookFilled-1Gx00P.colorBrand-3pXr91:hover {
-    background-color: rgb();
+    background-color: rgb(0, 0, 0);
 }
 
 /* profile focused button text border */
 .theme-dark .input-cIJ7To.focused-1mmYsC, .theme-dark .input-cIJ7To:focus {
-    border-color: rgba();
+    border-color: rgba(0, 0, 0, 0.4);
 }
 
 /* profile area of settings question mark normal and hover */
 .da-app .da-questionMark {
-    background-color: #ffffff;
+    background-color: #000000;
 }
 .da-app .da-questionMark:hover {
-    background-color: #ffffff;
+    background-color: #000000;
 }
 
 /* button at profile settings green button normal and hover */
@@ -374,21 +374,21 @@
 
 /* red buttons */
 .lookOutlined-3sRXeN.colorRed-1TFJan {
-    background-color: rgba();
+    background-color: rgba(0, 0, 0, 0.1);
 }
 .lookOutlined-3sRXeN.colorRed-1TFJan:hover {
-    background-color: rgba();
+    background-color: rgba(0, 0, 0, 0.2);
 }
 
 /* settings profile picture area */
 .userSettingsAccount-2eMFVR .avatar-uploader-inner, .avatar-xxlarge {
-    border: 1px solid #ffffff;
+    border: 1px solid #000000;
     border-radius: 50px;
     border-bottom-left-radius: 1px;
-    box-shadow: 0px 0px 10px #ffffff;
+    box-shadow: 0px 0px 10px #000000;
 }
 .theme-dark .avatar-uploader-indicator {
-    background-color: rgb();
+    background-color: rgb(0, 0, 0);
 }
 
 /* chat pfp area border and box shadows */
