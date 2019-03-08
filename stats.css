@@ -106,7 +106,7 @@
     height: 0;
     border-top: 10px solid transparent;
     border-bottom: 10px solid transparent;
-    border-right: 10px solid rgba(55, 92, 167, 0.4);
+    border-right: 10px solid rgba();
 }
 
 .contentCozy-3XX413, .theme-dark .headerCozyMeta-rdohGq {
@@ -124,8 +124,8 @@
 }
 
 .messageCompact-kQa7ES, .messageCozy-2JPAPA {
-	background: rgba(8, 26, 62, 0.3);
-	border: 1px solid rgba(55, 92, 167, 0.4);
+	background: rgba();
+	border: 1px solid rgba();
 	margin-right: 7px;
 	margin-left: 100px;
 	padding-top: 5px;
@@ -137,84 +137,84 @@
 	background-color: var(--color-main);
 }
 /* guild button */
-.theme-dark .guild-1EfMGQ .guildInner-3DSoA4[style*="background-color: rgb(47, 49, 54);"] {
+.theme-dark .guild-1EfMGQ .guildInner-3DSoA4[style*="background-color: rgb();"] {
 	background-color: var(--color-main)!important;
 	box-shadow: rgb(25, 45, 85) 0px 0px 20px;
 }
 
 /* invite group */
 .theme-dark .wrapper-35wsBm {
-    background: rgba(2, 22, 45, 0.8);
-    border-color: rgb(27, 52, 95);
+    background: rgba() ;
+    border-color: rgb();
 }
 
 
 /* embed urls */
 .theme-dark .embedInner-1-fpTo {
-    background-color: rgba(19, 82, 93, 0.3);
-    border-color: rgb(28, 101, 144);
+    background-color: rgba();
+    border-color: rgb();
 }
 .theme-dark .embedPill-1Zntps {
-    background-color: rgb(28, 101, 144);
+    background-color: rgb();
 }
 
 /* emoji menu */
 
 .emojiPicker-3m1S-j, #bda-qem-twitch-container, #bda-qem-favourite-container {
-	background-color: rgba(2, 22, 45, 0.9);
+	background-color: rgba();
 }
 /* sticky part of emoji area */
 .emojiPicker-3m1S-j .stickyHeader-1SS0JU {
-    background: rgb(9, 44, 83);
-    border: 1px solid #375ca7;
+    background: rgb();
+    border: 1px solid ;
     border-radius: 5px;
 }
 .diversitySelector-tmmMv0 .popout-2nUePc {
-    background: rgba(2, 22, 45, 0.9);
-    border: 1px solid #375ca7;
+    background: rgba();
+    border: 1px solid ;
 }
 .search-bar.search-bar-light {
-    background-color: rgba(9, 44, 83, 0.9);
-    border: 1px solid #375ca7;
+    background-color: rgba();
+    border: 1px solid ;
 }
 .search-bar.search-bar-light .search-bar-inner {
-    background-color: rgb(8, 34, 63);
+    background-color: rgb();
 }
 #bda-qem button:hover {
-    background: rgb(5, 31, 63);
+    background: rgb();
 }
 #bda-qem {
-	background-color: rgba(2, 22, 45, 0.9);
+	background-color: rgba();
 }
 #bda-qem button {
-    border-left: 1px solid #375ca7;
-    border-top: 1px solid #375ca7;
+    border-left: 1px solid ;
+    border-top: 1px solid ;
 }
 #bda-qem-twitch-container, #bda-qem-favourite-container, .emoji-picker, .emojiPicker-3m1S-j {
-	 border: 1px solid #375ca7;
+	 border: 1px solid ;
 }
 .emoji-picker, .emojiPicker-3m1S-j {
 	border-top: none;
 }
 #bda-qem button {
-    border-left: 1px solid #375ca7;
-    box-shadow: #375ca7 1px 0 0 0;
+    border-left: 1px solid ;
+    box-shadow:  1px 0 0 0;
 }
 #bda-qem button.active {
-    background-color: #08294f;
-    color: #fff;
+    background-color: ;
+    color: ;
 }
 #bda-qem button {
-    color: #99aab5;
-    border-left: 1px solid #375ca7;
+    color: ;
+    border-left: 1px solid ;
 }
 .emojiPicker-3m1S-j .scroller-3vODG7 .emojiItem-109bjA.selected-39BZ4S {
-    background-color: #092c53;
-    border-color:; #375ca7;
+    background-color: ;
+    border-color: ;
 }
 
 .emojiPicker-3m1S-j .categories-1feg4n .item-16cXuq.selected-39BZ4S {
-    border-bottom-color: #375ca7;
+    border-bottom-color: ;
 }
 
 /* custom stuff for emoji page */
@@ -235,18 +235,18 @@
 
 /* divider in chat */
 .theme-dark .divider-3gKybi:not(.dividerRed-MKoLlr) .dividerContent-2L12VI:after, .theme-dark .divider-3gKybi:not(.dividerRed-MKoLlr) .dividerContent-2L12VI:before {
-    border-color: #375ca7;
+    border-color: ;
 }
 .theme-dark .divider-3gKybi:not(.dividerRed-MKoLlr) .dividerContent-2L12VI {
-    color: rgb(55, 92, 167);
+    color: rgb();
 }
 
 .theme-dark .hasMore-3e72_v button {
-    background: rgba(2, 22, 45, 0.9);
-    border: 1px solid #375ca7;
+    background: rgba();
+    border: 1px solid ;
 }
 .hasMore-3e72_v button {
-    color: #375ca7;
+    color: ;
 }
 
 
@@ -254,10 +254,10 @@
 
 /* playing a game card */
 .theme-dark .body-3iLsc4, .theme-dark .footer-1fjuF6, .theme-dark .body-3ND3kc {
-    background-color: rgba(2, 22, 45, 0.9);
+    background-color: rgba();
 }
 .theme-dark .quickMessage-1yeL4E {
-    background-color: rgba(6, 31, 58, 0.9);
+    background-color: rgba();
     border-color: #375ca7;
 }
 .headerPlaying-j0WQBV, .da-topSectionPlaying {
