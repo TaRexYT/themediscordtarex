@@ -374,21 +374,21 @@
 
 /* red buttons */
 .lookOutlined-3sRXeN.colorRed-1TFJan {
-    background-color: rgba(0, 0, 0, 0.1);
+    background-color: rgba();
 }
 .lookOutlined-3sRXeN.colorRed-1TFJan:hover {
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: rgba();
 }
 
 /* settings profile picture area */
 .userSettingsAccount-2eMFVR .avatar-uploader-inner, .avatar-xxlarge {
-    border: 1px solid #000000;
+    border: 1px solid #ffffff;
     border-radius: 50px;
     border-bottom-left-radius: 1px;
-    box-shadow: 0px 0px 10px #000000;
+    box-shadow: 0px 0px 10px #ffffff;
 }
 .theme-dark .avatar-uploader-indicator {
-    background-color: rgb(0, 0, 0);
+    background-color: rgb();
 }
 
 /* chat pfp area border and box shadows */
