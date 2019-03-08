@@ -333,7 +333,7 @@
 	border-bottom-right-radius: 20px;
 }
 .theme-dark .member-3W1lQa:hover .content-OzHfo4 {
-	background-color: rgba(0, 0, 0, 0.63);
+	background-color: rgba();
    	border: 1px solid #000000;
 	border-top-left-radius: 20px;
 	border-bottom-right-radius: 20px;
@@ -343,24 +343,24 @@
 
 /* secondary buttons */
 .da-app .lookFilled-1Gx00P.colorBrand-3pXr91 {
-	background-color: #000000;
+	background-color: #ffffff;
 }
 
 .da-app .lookFilled-1Gx00P.colorBrand-3pXr91:hover {
-    background-color: rgb(0, 0, 0);
+    background-color: rgb();
 }
 
 /* profile focused button text border */
 .theme-dark .input-cIJ7To.focused-1mmYsC, .theme-dark .input-cIJ7To:focus {
-    border-color: rgba(0, 0, 0, 0.4);
+    border-color: rgba();
 }
 
 /* profile area of settings question mark normal and hover */
 .da-app .da-questionMark {
-    background-color: #000000;
+    background-color: #ffffff;
 }
 .da-app .da-questionMark:hover {
-    background-color: #000000;
+    background-color: #ffffff;
 }
 
 /* button at profile settings green button normal and hover */
