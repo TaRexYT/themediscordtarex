@@ -151,7 +151,7 @@
 
 /* embed urls */
 .theme-dark .embedInner-1-fpTo {
-    background-color: rgba(19, 82, 93, 0.3);
+    background-color: rgba(0, 0, 0, 0.3);
     border-color: rgb(0, 0, 0);
 }
 .theme-dark .embedPill-1Zntps {
@@ -165,7 +165,7 @@
 }
 /* sticky part of emoji area */
 .emojiPicker-3m1S-j .stickyHeader-1SS0JU {
-    background: rgb(9, 44, 83);
+    background: rgb(0, 0, 0);
     border: 1px solid #000000;
     border-radius: 5px;
 }
@@ -210,7 +210,7 @@
 }
 .emojiPicker-3m1S-j .scroller-3vODG7 .emojiItem-109bjA.selected-39BZ4S {
     background-color: #092c53;
-    border-color: #375ca7;
+    border-color: #000000;
 }
 
 .emojiPicker-3m1S-j .categories-1feg4n .item-16cXuq.selected-39BZ4S {
@@ -374,10 +374,10 @@
 
 /* red buttons */
 .lookOutlined-3sRXeN.colorRed-1TFJan {
-    background-color: rgba(240, 71, 71, 0.10);
+    background-color: rgba(0, 0, 0, 0.1);
 }
 .lookOutlined-3sRXeN.colorRed-1TFJan:hover {
-    background-color: rgba(240, 71, 71, 0.20);
+    background-color: rgba(0, 0, 0, 0.2);
 }
 
 /* settings profile picture area */
@@ -388,7 +388,7 @@
     box-shadow: 0px 0px 10px #000000;
 }
 .theme-dark .avatar-uploader-indicator {
-    background-color: rgb(28, 35, 41);
+    background-color: rgb(0, 0, 0);
 }
 
 /* chat pfp area border and box shadows */
@@ -432,7 +432,7 @@
 
 .theme-dark .da-card:before, .theme-dark .da-removeGame {
 	background-color: rgba(0, 0, 0, 0.9);
-	border: 1px solid rgba(29, 82, 162, 0.9);
+	border: 1px solid rgba(0, 0, 0, 0.9);
 }
 
 /* settings, connections, - buttons */
@@ -447,7 +447,7 @@
 /* same area but for games, such as lol, steam, twitch, etc... */
 .theme-dark .elevationLow-2lY09M[style="border-color: rgb(0, 0, 0); background-color: rgb(0, 0, 0);"] { 
 	border-color: rgba(0, 0, 0, 0.7)!important;
-	background-color: rgba(2, 31, 37, .7)!important;
+	background-color: rgba(0, 0, 0, 0.7)!important;
 }
 .theme-dark .elevationLow-2lY09M[style="border-color: rgb(0, 0, 0); background-color: rgb(0, 0, 0);"]{
 	border-color: rgba(0, 0, 0, 0.7)!important;
@@ -489,10 +489,10 @@
     border-color: rgba(0, 0, 0, 0.9);
 }
 .theme-dark .modal-3HD5ck {
-    background-color: rgba(2, 22, 45, 0.8);
+    background-color: rgba(0, 0, 0, 0.8);
 }
 .theme-dark .footer-2yfCgX {
-    background-color: rgba(3, 28, 57, 0.9);
+    background-color: rgba(0, 0, 0, 0.9);
 }
 .theme-dark .cardPrimaryOutline-29Ujqw {
     background-color: rgba(0,0,0,0.4);
@@ -502,10 +502,10 @@
     box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.6), 0 2px 10px 0 rgba(0,0,0,.2);
 }
 .theme-dark .menu-Sp6bN1 {
-	background-color: rgba(2, 22, 45, 0.8);
+	background-color: rgba(0, 0, 0, 0.8);
 }
 .theme-dark .item-1GzJrl:hover {
-    background-color: rgba(2, 22, 45, 0.9);
+    background-color: rgba(0, 0, 0, 0.9);
 }
 .da-botTag, .wrapper-2NJDcI {
     background-color: rgba(255, 0, 0, 0.9);
@@ -638,7 +638,7 @@
 }
 
 .theme-dark .itemBackground-2vEldQ:before {
-    background: radial-gradient(ellipse at top,rgba(54,57,63,-3),rgba(0, 18, 39, 0.9)),linear-gradient(90deg,rgba(0, 18, 39, 0.9) 0,rgba(54,57,63,0) 40%,rgba(54,57,63,0) 60%,rgba(0, 18, 39, 0.9)),linear-gradient(0deg,rgba(0, 18, 39, 0.9) 10%,rgba(54,57,63,0) 70%)!important;
+    background: radial-gradient(ellipse at top,rgba(0, 0, 0, 0),rgba(0, 0, 0, 0.9)),linear-gradient(90deg,rgba(0, 0, 0, 0.9) 0,rgba(0, 0, 0, 0) 40%,rgba(0, 0, 0, 0) 60%,rgba(0, 0, 0, 0.9)),linear-gradient(0deg,rgba(0, 0, 0, 0.9) 10%,rgba(0, 0, 0, 0) 70%)!important;
 }
 .da-app .overlappingBorder-3aFng4 {
     border-color: rgb(0, 0, 0);
