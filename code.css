@@ -294,12 +294,12 @@
 
 /* on call area */
 .video-1FfuMD {
-    background-color: rgba(0, 0, 0, 0.9);
-    border: 1px solid #000000;
+    background-color: rgba();
+    border: 1px solid #ffffff;
 }
 .theme-dark .wrapper-29NfPK.minimum-2d6zH6 .actions-2vadYq .center-1Vp33r {
-    background-color: #000000;
-    border-color: #000000;
+    background-color: #ffffff;
+    border-color: #ffffff;
 }
 
 /* fixing idle and other states *//*
@@ -309,26 +309,26 @@
 
 /* unread messages */
 .wrapper-232cHJ {
-    background-color: #000000;
-    box-shadow: 0px 0px 10px #000000;
+    background-color: #ffffff;
+    box-shadow: 0px 0px 10px #ffffff;
 }
 
 /* settings my account background */
 .theme-dark .da-cardPrimary, .theme-dark .da-cardPrimaryEditable {
-	background: rgba(0, 0, 0, 0.3);
-	border-color: rgba(0, 0, 0, 0.4);
+	background: rgba();
+	border-color: rgba();
 }
 
 /* settings button normal and hover of categories */
 .da-app .side-8zPYf6 .da-itemSelected, .theme-dark #bd-settings-sidebar .ui-tab-bar-item.selected {
-    background-color: #000000;
-   	border: 1px solid #000000;
+    background-color: #ffffff;
+   	border: 1px solid #ffffff;
 	border-top-left-radius: 20px;
 	border-bottom-right-radius: 20px;
 }
 .da-app .side-8zPYf6 .da-itemDefault:hover, .da-app .da-wrapperHoveredText .da-content, .da-app .da-channel:hover a, .theme-dark #bd-settings-sidebar .ui-tab-bar-item:hover {
-	background-color: rgba(0, 0, 0, 0.63);
-   	border: 1px solid #000000;
+	background-color: rgba(255, 255, 255, 0.63);
+   	border: 1px solid #ffffff;
 	border-top-left-radius: 20px;
 	border-bottom-right-radius: 20px;
 }
