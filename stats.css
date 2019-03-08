@@ -416,14 +416,14 @@
 .theme-dark .checked-3_4uQ9 {
 	border-color: rgba()!important;
 }
-.theme-dark .da-cardPrimaryEditable[style*="border-color: rgb(114, 137, 218); background-color: rgb(114, 137, 218);"] {
+.theme-dark .da-cardPrimaryEditable[style*="border-color: rgb(); background-color: rgb();"] {
 	border-color: rgba()!important;
     background-color: rgba()!important;
 }
 
 /* making text easier to read */
 .theme-dark .description-3_Ncsb, .theme-dark .labelDescriptor-1PqHgD {
-    color: #a8aaad;
+    color: ;
 }
 
 .da-notDetected {
@@ -445,15 +445,15 @@
     border-color: rgba();
 }
 /* same area but for games, such as lol, steam, twitch, etc... */
-.theme-dark .elevationLow-2lY09M[style="border-color: rgb(2, 31, 37); background-color: rgb(2, 31, 37);"] { 
+.theme-dark .elevationLow-2lY09M[style="border-color: rgb(); background-color: rgb();"] { 
 	border-color: rgba()!important;
 	background-color: rgba()!important;
 }
-.theme-dark .elevationLow-2lY09M[style="border-color: rgb(24, 35, 50); background-color: rgb(24, 35, 50);"]{
+.theme-dark .elevationLow-2lY09M[style="border-color: rgb(); background-color: rgb();"]{
 	border-color: rgba()!important;
 	background-color: rgba()!important;
 }
-.theme-dark .elevationLow-2lY09M[style="border-color: rgb(29, 185, 84); background-color: rgb(29, 185, 84);"]{
+.theme-dark .elevationLow-2lY09M[style="border-color: rgb(); background-color: rgb();"]{
 	border-color: rgba(29, 185, 84, .7)!important;
 	background-color: rgba(29, 185, 84, .7)!important;
 }
@@ -469,7 +469,7 @@
 }
 .theme-dark .topPill-30KHOu .itemSelected-1qLhcL, .theme-dark .jumpButton-Ia2hRJ, .theme-dark .jumpButton-3DTcS_ {
     background-color: rgba();
-    color: #c6c6c6;
+    color: ;
 }
 .bda-slist .bda-footer a, .anchor-3Z-8Bb, .content-8biNdB a {
 	color: rgba();
@@ -609,13 +609,13 @@
 	background: transparent;
 }
 .theme-dark .footer-1kmXd4 {
-    background-color: rgba(5, 41, 84, 0.4);
+    background-color: rgba();
 }
 .theme-dark .connectedAccount-36nQx7, .theme-dark .userInfoSection-2acyCx+.userInfoSection-2acyCx {
-    border-color: rgba(11, 61, 121, 0.4);
+    border-color: rgba(4);
 }
 .tabBarContainer-1s1u-z {
-    border-top: 1px solid rgba(11, 61, 121, 0.4);
+    border-top: 1px solid rgba();
 }
 .theme-dark .friendsTable-133bsv .friendsRow-2yicud:hover {
     background: rgba();
@@ -641,7 +641,7 @@
     background: radial-gradient(ellipse at top,rgba(),rgba()),linear-gradient(90deg,rgba() 0,rgba() 40%,rgba() 60%,rgba()),linear-gradient(0deg,rgba() 10%,rgba() 70%)!important;
 }
 .da-app .overlappingBorder-3aFng4 {
-    border-color: rgb(18, 84, 178);
+    border-color: rgb();
 }
 .theme-dark .description-3rB3Rp {
     background: linear-gradient(180deg,transparent,rgba(5) 45%,rgba())!important;
@@ -683,7 +683,7 @@
     background-color: rgba();
 }
 .da-activityName {
-    color: #fff;
+    color: ;
 }
 
 .da-statusIconText .da-status {
