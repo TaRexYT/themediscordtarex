@@ -24,7 +24,7 @@
 
 .contentSelectedText-3wUhMi, .contentSelectedVoice-1WDIBM, .channel-2QD9_O.selected-1HYmZZ a {
     background-color: var(--color-main);
-    border: 1px solid rgb(133, 133, 133);
+    border: 1px solid rgb(0, 0, 0);
     border-bottom-color: #000000;
     border-top-left-radius: 20px;
     border-bottom-right-radius: 20px;
@@ -294,7 +294,7 @@
 
 /* on call area */
 .video-1FfuMD {
-    background-color: rgba(0, 0, 0, 0.9);
+    background-color: rgba(190, 190, 190, 0.9);
     border: 1px solid #000000;
 }
 .theme-dark .wrapper-29NfPK.minimum-2d6zH6 .actions-2vadYq .center-1Vp33r {
