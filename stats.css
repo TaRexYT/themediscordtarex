@@ -139,7 +139,7 @@
 /* guild button */
 .theme-dark .guild-1EfMGQ .guildInner-3DSoA4[style*="background-color: rgb();"] {
 	background-color: var(--color-main)!important;
-	box-shadow: rgb(25, 45, 85) 0px 0px 20px;
+	box-shadow: rgb() 0px 0px 20px;
 }
 
 /* invite group */
@@ -258,31 +258,31 @@
 }
 .theme-dark .quickMessage-1yeL4E {
     background-color: rgba();
-    border-color: #375ca7;
+    border-color: ;
 }
 .headerPlaying-j0WQBV, .da-topSectionPlaying {
-    background: rgba(49, 111, 145, 0.9);
-    border: 1px solid #0af;
+    background: rgba();
+    border: 1px solid ;
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
 }
 /* button for header playing on add friend */
 .lookInverted-2D7oAl.colorBrand-3pXr91, .lookFilled-1Gx00P.colorBrand-3pXr91 {
-    background-color: rgba(49, 110, 145, 0.9);
-    border: 1px solid rgba(52, 141, 190, 0.9);
-    color: #ffffff;
+    background-color: rgba();
+    border: 1px solid rgba();
+    color: ;
 }
 .lookInverted-2D7oAl.colorBrand-3pXr91:hover, .lookFilled-1Gx00P.colorBrand-3pXr91:hover {
-    background-color: rgba(57, 128, 169, 0.9);
+    background-color: rgba();
 }
 
 .userPopout-3XzG_A {
-    border: 1px solid #375ca7;
+    border: 1px solid ;
 }
 
 /* normal card */
 .theme-dark .da-headerNormal, .da-root .da-topSectionNormal {
-    background-color: rgba(0, 18, 39, 0.9);
+    background-color: rgba();
 }
 
 
